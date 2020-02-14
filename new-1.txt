@@ -1,1 +1,3 @@
 this is new-1.txt by git 102
+
+แก้ไขใน git102 ใน branch master เพื่อดู conflict
